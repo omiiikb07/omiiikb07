@@ -56,10 +56,10 @@ I enjoy working on projects, experimenting with different technologies, and lear
 | Project | Description |
 |---|---|
 | [Beyond404](https://github.com/omiiikb07/beyond404-forensics) | Exploring audio forensics and AI voice-cloning detection. |
-| [SyncSpace](https://github.com/omiiikb07) | A call intelligence project focused on real-time communication. |
-| [VARUNA](https://github.com/omiiikb07) | A weather data analytics platform concept. |
-| [Anuwad](https://github.com/omiiikb07) | A speech translation application. |
-| [Daystash](https://github.com/omiiikb07) | A personal budgeting application. |
+| [SyncSpace](https://github.com/omiiikb07/SyncSpace) | A call intelligence project focused on real-time communication. |
+| [VARUNA](https://github.com/omiiikb07/VARUNA-Weather-Intelligence-Grid) | A weather data analytics platform. |
+| [Anuwad](https://github.com/omiiikb07/Anuwad) | A speech translation application. |
+| [Daystash](https://github.com/omiiikb07/Daystash) | A personal budgeting application. |
 
 ### 🌱 Currently
 
